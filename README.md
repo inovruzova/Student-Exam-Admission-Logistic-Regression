@@ -6,6 +6,5 @@ This project focuses on building a binary classification model using logistic re
 - Cost function analysis and convergence plotting
 - Model testing on training data and specific examples
 - Logistic regression using scikit-learn for comparison
-- A report summarizing all findings and performance results
 
 The goal is to train a classifier that predicts whether a student will pass or fail based on their scores in two exams.
