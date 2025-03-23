@@ -1,7 +1,7 @@
 This project focuses on building a binary classification model using logistic regression to predict student admission outcomes based on two exam scores. The project includes:
 
 - Data loading and normalization (Min-Max scaling)
-- -vData visualization with color-coded exam outcomes
+- Data visualization with color-coded exam outcomes
 - Logistic regression implementation from scratch using gradient descent
 - Cost function analysis and convergence plotting
 - Model testing on training data and specific examples
